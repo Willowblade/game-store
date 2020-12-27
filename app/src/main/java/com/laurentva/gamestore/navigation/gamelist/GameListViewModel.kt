@@ -1,4 +1,4 @@
-package com.udacity.gamestore.navigation.gamelist
+package com.laurentva.gamestore.navigation.gamelist
 
 import androidx.lifecycle.ViewModel
 

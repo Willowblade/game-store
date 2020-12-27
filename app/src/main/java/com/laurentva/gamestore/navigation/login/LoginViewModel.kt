@@ -1,4 +1,4 @@
-package com.udacity.gamestore.navigation.login
+package com.laurentva.gamestore.navigation.login
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -1,4 +1,4 @@
-package com.udacity.gamestore
+package com.laurentva.gamestore
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.udacity.gamestore.navigation.gamelist
+package com.laurentva.gamestore.navigation.gamelist
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
@@ -6,7 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.udacity.gamestore.R
+import com.laurentva.gamestore.R
 
 class GameListFragment : Fragment() {
 

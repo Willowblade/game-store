@@ -1,4 +1,4 @@
-package com.udacity.gamestore.models
+package com.laurentva.gamestore.models
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

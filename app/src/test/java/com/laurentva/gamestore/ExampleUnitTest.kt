@@ -1,4 +1,4 @@
-package com.udacity.gamestore
+package com.laurentva.gamestore
 
 import org.junit.Test
 
