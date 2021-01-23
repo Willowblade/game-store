@@ -2,12 +2,16 @@
     <string name="app_name">ShoeStore</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">This is a blank fragment.</string>
-    <string name="welcome_intro_1">Hello! Welcome to the Legendary Game Store, where you can find games for all platforms from all kinds of developers!</string>
     <string name="e_mail">E-mail</string>
     <string name="password">Password</string>
     <string name="log_in">LOG IN</string>
     <string name="or">OR</string>
     <string name="register">Register</string>
-    <string name="enter">Enter</string>
+    <string name="enter_welcome">Enter LGS</string>
+    <string name="enter_instruction">Show me the games already!</string>
+    <string name="welcome_intro_1">Hello! Welcome to the Legendary Game Store, where you can find games for all platforms from all kinds of developers!</string>
     <string name="welcome_intro_2">Please enter the store and browse our games! Here at LGS, I promise you won\'t be disappointed…</string>
+    <string name="instruction_intro_1">You\'ll soon see our games on offer, you can scroll through our huge list of available games.</string>
+    <string name="instruction_intro_2">Scrolling through the list, you will eventually reach the end. However, do not despair! There is a button at the end that allows you to add more games</string>
+    <string name="add_game">Add a game</string>
 </resources>
