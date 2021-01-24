@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name">ShoeStore</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">This is a blank fragment.</string>
+    <string name="app_name">Legendary Game Store</string>
     <string name="e_mail">E-mail</string>
     <string name="password">Password</string>
     <string name="log_in">LOG IN</string>
@@ -14,4 +12,11 @@
     <string name="instruction_intro_1">You\'ll soon see our games on offer, you can scroll through our huge list of available games.</string>
     <string name="instruction_intro_2">Scrolling through the list, you will eventually reach the end. However, do not despair! There is a button at the end that allows you to add more games</string>
     <string name="add_game">Add a game</string>
+    <string name="description">Description</string>
+    <string name="company">Company</string>
+    <string name="platform">Platform</string>
+    <string name="game_title">Game Title</string>
+    <string name="add_new_game">Add New Game!</string>
+    <string name="add_game_button">ADD GAME</string>
+    <string name="logout">Logout</string>
 </resources>

@@ -1,11 +1,9 @@
 package com.laurentva.gamestore.navigation.login
 
 import android.os.Bundle
+import android.view.*
 import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
 import androidx.databinding.DataBindingUtil
-import android.view.View
-import android.view.ViewGroup
 import androidx.navigation.Navigation
 import com.laurentva.gamestore.R
 import com.laurentva.gamestore.databinding.LoginFragmentBinding
@@ -21,9 +19,5 @@ class LoginFragment : Fragment() {
         binding.register.setOnClickListener(Navigation.createNavigateOnClickListener(LoginFragmentDirections.actionLoginFragmentToWelcomeFragment()))
 
         return binding.root
-    }
-
-    override fun onActivityCreated(savedInstanceState: Bundle?) {
-        super.onActivityCreated(savedInstanceState)
     }
 }
