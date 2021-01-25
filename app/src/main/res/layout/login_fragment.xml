@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".navigation.login.LoginFragment">
 
+<!--    For the login screen, I chose a constraint layout because I wanted have my login inputs at 40%, and to easily group elemeents together at closer and larger offsets (editviews vs buttons)-->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/frameLayout"
         android:layout_width="match_parent"

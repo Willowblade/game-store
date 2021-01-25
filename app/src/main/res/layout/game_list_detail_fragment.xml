@@ -3,6 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
 
+<!--    To have full control of how this little detail layout would look like, I used a constraintlayout.
+        This let me design it just the way I wanted, and was straightforward to use. -->
     <androidx.constraintlayout.widget.ConstraintLayout
 
         android:layout_width="match_parent"

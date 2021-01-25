@@ -4,6 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".navigation.instruction.InstructionFragment">
 
+<!--    I chose a constraintlayout, because I wanted to put my elements in the center but not exactly, and a constraint layout made this very easy to do.
+        This was copy pasted from the welcome fragment -->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/frameLayout2"
         android:layout_width="match_parent"

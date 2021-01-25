@@ -4,6 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".navigation.gamelist.GameListFragment">
 
+    <!--    I went with a constraintlayout because adding the FAB where I wanted to add it didn't work for me,
+    I tried to add it to the linear layout in the scrollview first but it was never chosen.
+    Using a constraint layout, I know it'll be where I intend it to be on all screens.-->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/linearLayout"
         android:layout_width="match_parent"

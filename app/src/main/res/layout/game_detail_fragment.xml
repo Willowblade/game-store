@@ -11,6 +11,8 @@
             type="com.laurentva.gamestore.models.Game" />
     </data>
 
+<!--    I went with a constraintlayout because I found they were easy to use to get the layout
+        I wanted. Chaining together textview and editview, centering the button below on a fixed offset from the inputs. -->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/frameLayout"
         android:layout_width="match_parent"
